@@ -10,7 +10,8 @@ title: Azeroth
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Events
 
-description: > # "
+description: >
+
   新人blog。
   等忙完这一阵，就可以接着忙下一阵了。
   有时候你不努力一下，你都不知道什么叫绝望。
@@ -23,7 +24,7 @@ url: "http://Shattrath.github.io"
 
 #These settings might be able to go?
 #author:  Nobody
-QQ_username: 434989726
+QQ_username: Malthael
 github_username:Shattrath
 School_name:KC
 
