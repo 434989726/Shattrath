@@ -28,14 +28,14 @@ github_username:Shattrath
 School_name:KC
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 #Have to show future posts for future events.
-future: true
+#future: true
 
-permalink: /event/:title.html
+#permalink: /event/:title.html
 
 #change your port on localhost
-port: 8000
+#port: 8000
 
 
